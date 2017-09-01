@@ -22,3 +22,6 @@ Programmed with AVR Studio 7.
 
 Sources for C code.
 For timer functions, LCD function and  Puls Width Modulator functions are used from lab manuals.
+
+Demo Link
+https://www.youtube.com/watch?v=OLF9h_sVTZM
